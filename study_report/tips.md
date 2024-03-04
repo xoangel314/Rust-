@@ -37,6 +37,9 @@ println!("price11 {}", price11);//输出 price11 168.125
 3. 注：Rust 的字符只能用 '' 来表示， "" 是留给字符串的
 4. Rust 使用 UTF-8 作为底层的编码 ，而不是常见的使用 ASCII 作为底层编码。
 
+- 字符串
+
+
 - 布尔：
 1. ```let checked:bool = true;
 println!("checked {}", checked);//输出 checked true```
